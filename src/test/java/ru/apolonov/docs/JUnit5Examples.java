@@ -1,8 +1,8 @@
-package ru.apolonov;
+package ru.apolonov.docs;
 
 import org.junit.jupiter.api.*;
 
-public class FirstTest {
+public class JUnit5Examples {
 
     @BeforeAll
     static void beforeAll() {
